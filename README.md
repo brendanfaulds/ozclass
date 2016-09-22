@@ -1,0 +1,2 @@
+# ozclass
+ozclass 1
